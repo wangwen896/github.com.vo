@@ -1,0 +1,290 @@
+/*
+* @Author: Administrator
+* @Date:   2016-10-11 09:27:53
+* @Last Modified by:   Administrator
+* @Last Modified time: 2016-10-20 09:13:10
+*/
+.top{
+	height: 102px;
+	width: 100%;
+	background: url(../img/index_topbg.jpg);
+}
+.nav{
+	margin-left: 163px;
+}
+.nav li{
+	padding: 0 14px;
+	line-height: 102px;
+	
+	font-size: 18px;
+}
+.nav li a{
+	color: white;
+}
+.borde{
+	height: 36px;
+	text-indent: 25px;
+	background-color:#E6E7E9;
+	line-height: 36px;
+}
+.banner{
+	height: 564px;
+	margin-bottom: 54px;
+	color: #495672;
+
+}
+.banl{
+	width: 278px;
+	height: 564px;
+	border:  1px solid #E5E5E5;
+	border-left: none;
+}
+.banr{
+	width: 964px;
+	height: 564px;
+	border:  1px solid #E5E5E5;
+	border-left: none;
+
+}
+
+.tit{
+	margin-bottom: 20px;
+}
+.goods{
+	 height: 936px;
+	 border:  1px solid #E5E5E5;
+	 margin-bottom: 27PX;
+}
+.sale{
+	height: 340px;
+	border:  1px solid #E5E5E5;
+	margin-bottom: 49PX;
+}
+.foot{
+	height: 558px;
+	background: #F7F6F6;
+}
+.ephone{
+	width: 319px;/* 
+	margin-right: -1px; */
+	border:  1px solid #E5E5E5;
+	height: 146px;
+	border-top: none;
+	border-right: none;
+}
+.ep1{
+	 border-left: none;
+}
+.ph1{
+	 height: 66px;
+	 border-bottom:1px solid #E5E5E5;
+	 line-height: 23px;
+	 overflow: hidden;
+
+}
+.ph2{
+	 height: 70px;
+	 border-bottom:1px solid #E5E5E5;
+	  overflow: hidden;
+
+}
+.ph3{
+	border-bottom: none;
+	 overflow: hidden;
+}
+.tpic{
+	font-weight: bold;
+	margin-top: 10px;
+}
+.gr{
+	width: 312px;
+	border:1px dotted #E5E5E5;
+	height: 936px;
+	border-bottom: none;
+}
+.gl{
+	width: 926px;
+	height: 624px;
+	border-bottom:1px solid #E5E5E5;
+}
+.gr .hot{
+	height: 100px;
+	background: #FAFAFA;
+	overflow: hidden;
+	text-align: center;
+}
+.hotbuy{
+	height: 103.5px;
+	border-bottom:1px dotted #E5E5E5;
+	overflow: hidden;
+}
+.last{
+	border: none !important;
+
+}
+.version{
+	width: 310px;
+	border-right:1px solid #E5E5E5;
+	height: 340px;
+
+}
+.ft{
+	height: 402px;
+	border-bottom: 1px solid #ccc;
+}
+.support{
+	height: 150px;
+	text-align: center;
+	overflow: hidden;
+
+}
+.support ul{
+	margin-left: 400px;
+	margin-top: 40px;
+}
+.var{
+	margin-top: 25px;
+}
+.g1{
+	width: 618px;
+	height: 312px;
+	text-align: center;
+}
+.g2{
+	height: 312px;
+	width: 307px;
+	border-left:1px solid #E5E5E5 ;
+	text-align: center;
+
+
+}
+.g3{
+	height: 312px;
+	width: 308.5px;
+	border-right:1px solid #E5E5E5 ;
+	text-align: center;
+}
+.g4{
+	height: 312px;
+	width: 306.5px;
+	border-right:1px solid #E5E5E5 ;
+	text-align: center;
+}
+.gl img{
+	margin-top: 1px;
+
+}
+.pri a{
+	color: #ccc !important;
+}
+.gl .g1 h3,.pr{
+	color: #ccc;
+
+}
+.gl .g1 p{
+	 font-size: 48px;
+	 color: #666666;
+	 margin-top: 15px;
+}
+.dis{
+	  margin-top: 44px;
+	  margin-left: 25px;
+}
+.hot h1{
+	 font-weight: normal;
+
+}
+.hot h1 span{
+	 font-size: 18px;
+}
+.guide{
+	height: 174px;
+	width: 892px;
+	border-right: 1px solid #ccc;
+	margin-top: 78px;
+}
+.mes{
+	height: 174px;
+	width: 345px;
+	margin-top: 78px;
+}
+.mes p{
+	margin-left: 66PX;
+	line-height: 30PX;
+}
+dl{
+	float: left;
+	margin-right: 89px;
+}
+.frist{
+	margin-left: 80px;
+}
+dt{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 16px;
+}
+dd{
+	line-height: 25px;
+}
+.fix{
+	 position: fixed;
+	 top: 155px;
+	 right: -5px;
+	 z-index: 2;
+}
+.num{
+	line-height: 104px;
+	font-size: 34px;
+}
+.mon{
+	color: #ccc;
+}
+.move{
+	margin-top: 27px;
+	text-indent: 1em
+}
+.usb{
+	font-size: 18px;
+	
+
+}
+.qian{
+	font-size: 16px;
+}
+.re{
+	color: red;
+}
+.nav li a:hover{
+	 color: orange;
+}
+.a1{
+	position: absolute;
+	top: 45%;
+}
+.a2{
+	position: absolute;
+	top: 45%;
+	right: 0px;
+}
+.wk,.n4{
+	position: relative;
+}
+.a3{
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+}
+.ne{
+	position: absolute;
+	top: 17px;
+	left: 70px;
+}
+.ne1{
+	position: absolute;
+	top: 17px;
+	left: 62px;
+}
+.goods h1{
+	 margin-top: 50px;
+}

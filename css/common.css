@@ -1,0 +1,57 @@
+/*
+* @Author: Administrator
+* @Date:   2016-10-09 20:02:40
+* @Last Modified by:   Administrator
+* @Last Modified time: 2016-10-11 12:22:34
+*/
+ body{
+ 	   font-size: 14px;
+ 	   font-family: '微软雅黑';
+
+ } 
+
+ a{
+ 	 text-decoration: none;
+ 	 color: #333333
+ }
+ a:hover{
+ 	color: #FF0000
+ }
+ li{
+ 	list-style: none;
+    }
+     a,ul,li,img,p ,div,body,h1,h3,h2,h4 ,dl,dd,dt{
+     	 padding: 0;
+     	 margin: 0;
+     }
+     h3,h2,h4{
+     	 font-weight: normal;
+     }
+     .heart{
+     	 width: 1245px ;
+     	 margin: 0 auto;
+     }
+     .fl{
+			float: left;
+     }
+     .fr{
+     	float: right;
+     }
+     .clearfix:after{
+     	   content: '';
+     	   height: 0;
+     	   line-height: 0;
+     	   display: block;
+     	   visibility: hidden;
+     	   clear: both;
+     }
+     .clear{
+     	zoom: 1;
+     }
+     div:hover{
+          border-color: orange;
+
+     }
+   
+     
+     
